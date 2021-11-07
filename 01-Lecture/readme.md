@@ -1,5 +1,13 @@
-# Dersler 
+# Dersler
+
+İçerik ile ilgili olarak;
+- [ ] : Tekrar edilmedi anlamına gelmektedir.
+- [x] : Tekrar edildi anlamına gelmektedir.
 
 ## İçerik
-1. [Ders 1 (TODO:) -  Ekim 2021]()
-2. [Ders 2 - 18 Ekim 2021](02_18_10_2021.md)
+- [x] [1. Hafta - 4 Ekim 2021 Pazartesi](01_04_10_2021.md)
+- [ ] [2. Hafta - 11 Ekim 2021 Pazartesi](02_11_10_2021.md)
+- [ ] [3. Hafta - 18 Ekim 2021 Pazartesi](03_18_10_2021.md)
+- [ ] [4. Hafta - 25 Ekim 2021 Pazartesi](04_25_10_2021.md)
+- [ ] [5. Hafta - 1 Kasım 2021 Pazartesi](05_01_11_2021.md)
+- [ ] [6. Hafta - 8 Kasım 2021 Pazartesi](06_08_11_2021.md)
